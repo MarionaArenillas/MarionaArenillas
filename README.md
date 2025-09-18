@@ -9,6 +9,13 @@ Estic actualment cursant el cicle formatiu de **Desenvolupament d'Aplicacions Mu
 ### 🚀 Tecnologies i eines 
 
 - **Entorns de desenvolupament:** Visual Studio Code, IntelliJ, PyCharm Git
+<div = center>
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" height="25">
+    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" height="25">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="PyCharm" height="25">
+</div>
+  )
+
 
 - **💻 Llenguatges i Tecnologies de Programació Utilitzats**
   <div = center>
