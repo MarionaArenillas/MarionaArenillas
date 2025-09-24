@@ -68,4 +68,4 @@ Me motiva crear aplicaciones útiles y aprender continuamente nuevas tecnología
 
 **¡Gracias por visitar mi perfil! 👾**  
 
-![Estadísticas de GitHub](https://ghchart.rshah.org/FF5733/MarionaArenillas)
+<img src="https://ghchart.rshah.org/FF5733/MarionaArenillas" width="100%">
