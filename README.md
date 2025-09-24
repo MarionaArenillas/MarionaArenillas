@@ -67,7 +67,6 @@ Em motiva crear aplicacions útils i aprendre contínuament noves tecnologies. M
   <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionaArenillas&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
 
-
 ---
 
 ### 💬 Contacta amb mi
