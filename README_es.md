@@ -51,7 +51,7 @@ Me motiva crear aplicaciones útiles y aprender continuamente nuevas tecnología
     srcset="https://github-readme-stats.vercel.app/api?username=MarionaArenillas&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=MarionaArenillas&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
+  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api?username=MarionaArenillas&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" alt="GitHub Stats Card" />
 </picture>
 
 <!-- TOP LANGS -->
@@ -64,7 +64,7 @@ Me motiva crear aplicaciones útiles y aprender continuamente nuevas tecnología
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionaArenillas&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionaArenillas&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarionaArenillas&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" alt="Top Langs card" />
 </picture>
 
 ---
